@@ -163,4 +163,4 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 ## About the Author
 
 Built by **Sumer Pandey**, TOP FELLOW of the NextLeap PM Fellowship, Cohort 37. <br>
-For collaborations, insights, and more: [LinkedIn – Sumer Pandey](https://www.linkedin.com/in/sumer-pandey)
+For collaborations, insights, and more: [LinkedIn – Sumer Pandey](https://www.linkedin.com/in/sumerpandey/)
