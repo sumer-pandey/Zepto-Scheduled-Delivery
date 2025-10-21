@@ -46,7 +46,7 @@ Scheduled delivery features have become essential in India's fast-commerce ecosy
 | Amazon Fresh  | Yes                        | Trust via Prime          | 1–2 hrs           |
 
 - **Scheduled Model**: E-grocery leaders default to scheduling. New quick-commerce players extend with scheduling features to reduce costs and smooth demand, but struggle to match trust and clarity.
-- **Market Data**: E-grocery market at \$6-7B, 50-60% annual growth. Scheduled delivery cuts cost per order by 50-60% versus instant delivery, with 2x higher average order value in the segment[attached_file:1].
+- **Market Data**: E-grocery market at \$6-7B, 50-60% annual growth. Scheduled delivery cuts cost per order by 50-60% versus instant delivery, with 2x higher average order value in the segment.
 
 ---
 
@@ -87,7 +87,7 @@ Scheduled delivery features have become essential in India's fast-commerce ecosy
 **Barriers Found:**
 - Trust in timely delivery is low (2.95/5) – the main limiter to likelihood of trying scheduled options.
 - Additional friction: slot visibility in app is weak, slot granularity doesn't fit routines (pref. evenings).
-- 40% are willing to pay a fee (\~₹30 median)[attached_file:1].
+- 40% are willing to pay a fee (\~₹30 median).
 
 **Jobs-To-Be-Done ("JTBD"):**
 - Need to be present for large items or perishables.
